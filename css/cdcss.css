@@ -12,6 +12,10 @@ body, ul, li {
   padding: 0;
 }
 
+.img {
+margin: 50px;
+}
+
 body {
   background-color: #ccc;
 }
