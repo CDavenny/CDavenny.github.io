@@ -175,5 +175,9 @@ footer {
   margin: 40px 60px 40px 0px;
   text-align: left;
 }
+  .img {
+margin: 50px;
+    width:50%;
+}
   
 }
