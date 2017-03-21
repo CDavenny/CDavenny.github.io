@@ -12,6 +12,10 @@ body, ul, li {
   padding: 0;
 }
 
+img.resize{
+    width:540px;
+    height: auto;
+}
 
 body {
   background-color: #ccc;
