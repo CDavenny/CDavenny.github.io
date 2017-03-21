@@ -16,6 +16,10 @@ img {
 margin: 0px;
 }
 
+.workpics {
+height: 20%;
+}
+
 body {
   background-color: #ccc;
 }
