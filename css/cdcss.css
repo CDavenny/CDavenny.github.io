@@ -13,7 +13,7 @@ body, ul, li {
 }
 
 .img {
-  background: url('image.jpg') no-repeat;
+  background: url('http://i.imgur.com/1qMpkFA.png') no-repeat;
   background-size:contain;
 }
 
