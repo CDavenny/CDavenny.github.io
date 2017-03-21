@@ -12,11 +12,6 @@ body, ul, li {
   padding: 0;
 }
 
-.img {
-  background: url('http://i.imgur.com/1qMpkFA.png') no-repeat;
-  background-size:contain;
-}
-
 body {
   background-color: #ccc;
 }
