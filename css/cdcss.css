@@ -114,7 +114,8 @@ footer {
   height:100px; 
   background:#d68113;
   text-align: center;
-  color: white;
+  vertical-align: middle;
+  
   
 }
 
